@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcogallen/number-formatter.git"
+  },
+  "author": "Marco Gallen <marco.gallen@gmail.com> (http://marcogallen.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcogallen/number-formatter/issues"
+  },
+  "homepage": "https://github.com/marcogallen/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
